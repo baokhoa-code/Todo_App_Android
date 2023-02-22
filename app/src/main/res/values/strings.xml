@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="activity_create_todo_input_todo_title_hint">Todo Title</string>
+    <string name="activity_create_todo_input_todo_subtitle_hint">todo_subtitle</string>
+    <string name="activity_create_todo_input_todo_text_hint">Type todo here..</string>
+    <string name="activity_main_text_my_todo_text">My Todos</string>
+    <string name="activity_main_input_search_hint">Search task</string>
+    <string name="layout_add_url_text_add_url_title_text">Add URL</string>
+    <string name="layout_add_url_input_url_hint">Enter URL</string>
+    <string name="layout_add_url_text_add_text">ADD</string>
+    <string name="layout_add_url_text_cancel_text">CANCEL</string>
+    <string name="layout_delete_todo_text_delete_todo_title_text">Delete Task</string>
+    <string name="layout_delete_todo_text_delete_todo_message_text">Are you sure want to delete this task?</string>
+    <string name="layout_delete_todo_text_delete_todo_text">DELETE</string>
+    <string name="layout_delete_todo_text_cancel_text">CANCEL</string>
+    <string name="layout_othertypes_text_othertypes_text">Other Types</string>
+    <string name="layout_othertypes_text_pick_color_text">Pick Color</string>
+    <string name="layout_othertypes_text_add_image_text">Add Image</string>
+    <string name="layout_othertypes_text_add_url_text">Add URL</string>
+    <string name="layout_othertypes_text_delete_todo_text">Delete Task</string>
+</resources>
